@@ -1,0 +1,4 @@
+requests
+json
+requests_oauthlib
+rich
