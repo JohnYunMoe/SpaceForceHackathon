@@ -6,8 +6,6 @@ Welcome to the SpaceForce Hackathon project! This repository contains all the fi
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project aims to draw data from the SpaceForce API and support that data with a User Interface along with some error handling and security features. It was developed during the SpaceForce Hackathon to solve the problem given at the time.
